@@ -6,7 +6,7 @@
 const aboutMe = {
   abstract: "You learn something new everyday",
   code: [JavaScript, HTML5, CSS3, Python, Java],
-  database: [SQL, Express, MongoDB]
+  database: [SQL, Express, MongoDB],
   tools: [React JS, VSCode, git],
   idioms: [Spanish (native), English (advance), German (intermediate)]
 }
