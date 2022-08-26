@@ -12,4 +12,4 @@ const aboutMe = {
 }
 ```
 
-I am a computer engineering student who seeks to learn a different detail every day that can help me obtain formidable results that contribute to the team I am lucky enough to join.. :star:
+I am a computer engineering student who seeks to learn a different detail every day that can help me obtain formidable results that contribute to the team I am lucky enough to join. :star:
